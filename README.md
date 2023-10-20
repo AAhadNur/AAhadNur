@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, My name is Abdul Ahad
+#### I am a Python developer
+![I am a Python developer](https://github.com/AAhadNur/AAhadNur/blob/main/github_banner.png)
 
-<!--
-**AAhadNur/AAhadNur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University. With a strong foundation in problem-solving and critical thinking, I specialize in Python and have hands-on experience in various projects involving Django, Machine Learning, and Data Engineering. Additionally, I am proficient in languages such as C, C++, JavaScript, and PHP.
 
-Here are some ideas to get you started:
+Skills: Python / Django / PostgreSQL / Docker / Javascript / Machine Leaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
