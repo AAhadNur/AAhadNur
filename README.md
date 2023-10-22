@@ -13,7 +13,8 @@ Skills: Python / Django / PostgreSQL / Docker / Javascript / Machine Leaning
 
 
 ![Timely](https://github.com/AAhadNur/AAhadNur/blob/main/Timely.gif)
-<img src"https://github.com/AAhadNur/AAhadNur/blob/main/github_banner.png" width="260"/>
+
+<img src"https://github.com/AAhadNur/AAhadNur/blob/main/github_banner.png"/>
 <a href="https://github.com/AAhadNur/Timely" target="_blank">
   <p>Timely</p>
 </a>
