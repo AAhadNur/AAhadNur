@@ -12,10 +12,8 @@ Skills: Python / Django / PostgreSQL / Docker / Javascript / Machine Leaning
 ### My Featured Applications : 
 
 
-![Timely](https://github.com/AAhadNur/AAhadNur/blob/main/Timely.gif)
-
-<img src"https://github.com/AAhadNur/AAhadNur/blob/main/github_banner.png"/>
 <a href="https://github.com/AAhadNur/Timely" target="_blank">
+  <img src="https://github.com/AAhadNur/AAhadNur/blob/main/github_banner.png" width="260"/>
   <p>Timely</p>
 </a>
 
